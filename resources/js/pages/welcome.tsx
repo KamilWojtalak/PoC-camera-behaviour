@@ -31,7 +31,7 @@ export default function Welcome() {
                 <div>
                     <form>
                         <input type="file" accept="image/*" capture="environment"/>
-                        </form>
+                    </form>
                 </div>
 
                 <div className="hidden h-14.5 lg:block"></div>
