@@ -1,0 +1,17 @@
+{
+  "name": "PWA camera behaviour",
+  "short_name": "CameraBehaviour",
+  "description": "App for capturing camera behaviour in a Progressive Web App.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "166x166",
+      "type": "image/png"
+    }
+  ]
+}

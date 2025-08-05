@@ -1,3 +1,4 @@
+import PwaInstallBanner from '@/components/PwaInstallBanner';
 import { type SharedData } from '@/types';
 import { Head, Link, usePage } from '@inertiajs/react';
 
@@ -30,6 +31,8 @@ export default function Welcome() {
 
                 <div className="hidden h-14.5 lg:block"></div>
             </div>
+
+            <PwaInstallBanner />
         </>
     );
 }
