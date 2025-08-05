@@ -28,6 +28,11 @@ export default function Welcome() {
                         </Link>
                     </nav>
                 </header>
+                <div>
+                    <form>
+                        <input type="file" accept="image/*" capture="environment"/>
+                        </form>
+                </div>
 
                 <div className="hidden h-14.5 lg:block"></div>
             </div>
